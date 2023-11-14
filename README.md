@@ -4,6 +4,9 @@ This is the source code for a very simple chat example used for the [Tutorial](h
 
 You can run this example directly in your browser on:
 
+
+<p>Ao iniciar usar o comando npm install</p>
+
 - [CodeSandbox](https://codesandbox.io/p/sandbox/github/socketio/chat-example?file=index.js)
 - [StackBlitz](https://stackblitz.com/github/socketio/chat-example?file=index.js)
 - [Repl.it](https://repl.it/github/socketio/chat-example)
