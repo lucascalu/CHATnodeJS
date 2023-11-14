@@ -10,3 +10,13 @@ You can run this example directly in your browser on:
 - [CodeSandbox](https://codesandbox.io/p/sandbox/github/socketio/chat-example?file=index.js)
 - [StackBlitz](https://stackblitz.com/github/socketio/chat-example?file=index.js)
 - [Repl.it](https://repl.it/github/socketio/chat-example)
+
+  <p>
+
+    CREATE TABLE IF NOT EXISTS messages (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  client_offset VARCHAR(255) UNIQUE,
+  content TEXT
+);
+
+  </p>
